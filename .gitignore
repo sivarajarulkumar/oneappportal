@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OneAppPlatform/ApplicationCore/obj
+/OneAppPlatform/Common/obj
+/OneAppPlatform/Domain/obj
+/OneAppPlatform/OneAppPlatform/bin/Debug/net7.0
+/OneAppPlatform/OneAppPlatform/obj
+/OneAppPlatform/OneAppPlatform.DataAccess/obj
+/OneAppPlatform/OneAppPlatform.Infrstrcture/obj
